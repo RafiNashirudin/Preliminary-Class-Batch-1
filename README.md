@@ -31,17 +31,8 @@ Stop
 ```
 
 # 2. JavaScript: Variabel & Scope
-```javascript
-let a = 3;
-const b = 5;
-{
-  let a = 10;
-  var c = a + b;
-}
-
-console.log(a); // Output: 3
-console.log(c); // Output: 15
-```
+a. 3
+b. 15
 
 # 3. JavaScript: Array Manipulation
 
